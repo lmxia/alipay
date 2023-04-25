@@ -1,7 +1,6 @@
 package alipay_test
 
 import (
-	"github.com/smartwalle/alipay/v3"
 	"testing"
 )
 
